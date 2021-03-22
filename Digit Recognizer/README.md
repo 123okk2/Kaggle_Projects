@@ -1,4 +1,6 @@
 # Digit Recognizer (MNIST)
+## Framework
+Keras
 
 ## Data From
 
