@@ -1,4 +1,6 @@
 # Plant Pathology 2021 - FGVC8
+## Framework
+Pytorch
 
 ## Data From
 
