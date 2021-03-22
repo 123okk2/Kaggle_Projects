@@ -1,4 +1,8 @@
 # Titanic - Machine Learning from Disaster
+## Framework
+Sklearn
+
+Pytorch
 
 
 ## Data From
