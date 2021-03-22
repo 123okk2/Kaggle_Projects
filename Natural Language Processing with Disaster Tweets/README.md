@@ -1,4 +1,6 @@
 # Natural Language Processing with Disaster Tweets
+## Framework
+Sklearn
 
 ## Data From
 https://www.kaggle.com/c/nlp-getting-started
