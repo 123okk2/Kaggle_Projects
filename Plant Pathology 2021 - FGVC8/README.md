@@ -10,6 +10,6 @@ https://www.kaggle.com/c/plant-pathology-2021-fgvc8
 
 ## 풀어법
 
-ResNet-34 호출 및 학습.
+ResNet-34을 호출하여 학습 진행.
 
-데이터가 너무 큰 탓에 아직 정확한 학습 결과가 안나옴.
+검증은 여러 방면에서의 검증을 위해 Ten-Crop을 사용하여 열 개의 이미지로 나눈 후 출력값인 softmax를 조합하여 최종 출력 결정.
