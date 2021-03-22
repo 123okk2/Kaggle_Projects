@@ -1,4 +1,6 @@
 # Fingers
+## Framework
+Pytorch
 
 ## Data From
 https://www.kaggle.com/koryakinp/fingers
