@@ -4,7 +4,7 @@
 https://www.kaggle.com/brendan45774/chess-piece-dectection
 
 ## Image
-![face](https://user-images.githubusercontent.com/51351974/111939133-cb354100-8b0e-11eb-86b9-5a28c59202db.JPG)
+![chess](https://user-images.githubusercontent.com/51351974/111956923-b799d280-8b2e-11eb-8803-9f28396b665e.JPG)
 
 
 ## 풀이법
