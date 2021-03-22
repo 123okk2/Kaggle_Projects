@@ -1,4 +1,6 @@
 # Face Mask Detection
+## Framework
+Pytorch
 
 ## Data From
 https://www.kaggle.com/andrewmvd/face-mask-detection
