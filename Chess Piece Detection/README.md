@@ -1,5 +1,8 @@
 # Chess Piece Detection
 
+## Framework
+Pytorch
+
 ## Data From
 https://www.kaggle.com/brendan45774/chess-piece-dectection
 
