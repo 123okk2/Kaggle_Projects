@@ -6,7 +6,7 @@ Pytorch
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 ## Image
-
+![pima](https://user-images.githubusercontent.com/51351974/114273682-ffd55200-9a55-11eb-9570-1898c01112c0.JPG)
 
 ## 풀이법
 간단하게 나이, 피부두께만 범주형 데이터로 변환 후 예측 수행
