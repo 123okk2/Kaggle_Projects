@@ -7,6 +7,7 @@ https://www.kaggle.com/andrewmvd/dog-and-cat-detection
 
 ## Image
 
+![dac](https://user-images.githubusercontent.com/51351974/116001857-bd08a200-a631-11eb-8781-fe0497181c2a.JPG)
 
 
 ## 풀이법
